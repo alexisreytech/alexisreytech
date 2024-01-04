@@ -1,5 +1,5 @@
- Hey there, I'm @alexisreytech.
- I’m interested inlearning accessible web design and development.
+ Hello, I'm @alexisreytech.
+ I’m interested in learning accessible web design and development.
  You may reach me at alexis.rey.tech@gmail.com
 
 <!---
